@@ -9,3 +9,6 @@ Although we may or may not use the decision tree for such decisions, this was a 
 2. Then, the root node was split into child notes based on the given condition. The right child node in the above figure fulfilled the condition, so no more questions were asked.
 3. The left child node didn’t fulfil the condition, so again it was split based on a new condition.
 4. This process continues till all the conditions are met or if you have predefined the depth of your tree, e.g. the depth of our tree is 3, and it reached there when all the conditions were exhausted.
+
+![tree_example](https://user-images.githubusercontent.com/33252532/83061893-5a9ece80-a07b-11ea-9114-cf31ac30f709.png)
+
